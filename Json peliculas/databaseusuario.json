@@ -1,0 +1,39 @@
+{
+  "usuarios": [
+    {
+      "idU": null,
+      "nombre": "Estefanía Leon Rabadan",
+      "email": "estefania.leon.rabadan@gmail.com",
+      "teléfono": "7331023634",
+      "edad": 23
+    },
+    {
+      "idU": null,
+      "nombre": "Montserrat Pineda Díaz",
+      "email": "montse.pidi@gmail.com",
+      "teléfono": "5573307483",
+      "edad": 24
+    },
+    {
+      "idU": null,
+      "nombre": "Ana Karen Godínez Pacheco",
+      "email": "anakaren.godinezp@gmail.com",
+      "teléfono": "5564956461",
+      "edad": 29
+    },
+    {
+      "idU": null,
+      "nombre": "Daniela Contreras Flores",
+      "email": "danycf98@gmail.com",
+      "teléfono": "2221658218",
+      "edad": 26
+    },
+    {
+      "idU": null,
+      "nombre": "Ana Paola Elizondo Salas",
+      "email": "anaelizondo796@gmail.com",
+      "teléfono": "5572103160",
+      "edad": 28
+    }
+  ]
+}
