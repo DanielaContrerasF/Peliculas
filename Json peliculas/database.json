@@ -1,0 +1,103 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "nombrePeli": "Nemo",
+      "año": 2003,
+      "genero": "infantil",
+      "director": "Andrew Staton",
+      "duracion": "1h40m",
+      "actoresPrincipales": "Nemo, Dori y Marlin"
+    },
+    {
+      "id": 2,
+      "nombrePeli": "Titanic",
+      "año": 1998,
+      "genero": "drama",
+      "director": "2h",
+      "duracion": "Steven Spilver",
+      "actoresPrincipales": "Leo y Kate"
+    },
+    {
+      "id": 3,
+      "nombrePeli": "Eterno resplandor de una mente sin recuerdos",
+      "año": 2004,
+      "genero": "drama romántico",
+      "director": "Michel Gondry",
+      "duracion": "1h48m",
+      "actoresPrincipales": "Jim Carrey y Kate Winslet"
+    },
+    {
+      "id": 4,
+      "nombrePeli": "Scooby doo",
+      "año": 2002,
+      "genero": "Misterio",
+      "director": "Raja Gosnell",
+      "duracion": "1h30m",
+      "actoresPrincipales": "Scooby, Dafne, Fred, Vilma, Shaggy"
+    },
+    {
+      "id": 5,
+      "nombrePeli": "Mulan",
+      "año": "1998",
+      "genero": "Animación/Aventura",
+      "director": "Tony Bancroft, Barry Cook",
+      "duracion": "88m",
+      "actoresPrincipales": "Ming-Na Wen, Eddie Murphy, BD Wong, Miguel Ferrer"
+    },
+    {
+      "id": 6,
+      "nombrePeli": "Monsters, Inc.",
+      "año": 2001,
+      "genero": "Comedia/Infantil",
+      "director": "Pete Docter",
+      "duracion": "1h 32m",
+      "actoresPrincipales": "Mike Wazoski, James P. Sullivan, Boo"
+    },
+    {
+      "id": 7,
+      "nombrePeli": "Shrek",
+      "año": "2001",
+      "genero": "Comedia",
+      "director": "Andrew Adamson, Vicky Jenson",
+      "duracion": "90m",
+      "actoresPrincipales": "Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow"
+    },
+    {
+      "id": 8,
+      "nombrePeli": "Sweeney todd",
+      "año": 2007,
+      "genero": "Musical terror",
+      "director": "Tim Burton",
+      "duracion": "1h56m",
+      "actoresPrincipales": "Johnny Depp y Helena Bonham"
+    },
+    {
+      "id": 9,
+      "nombrePeli": "Lilo y Stich",
+      "año": 2002,
+      "genero": "Infantil/Comedia",
+      "director": "Chris Sanders",
+      "duracion": "1h 25m",
+      "actoresPrincipales": "Stitch, Lilo, Nani"
+    },
+    {
+      "id": 10,
+      "nombrePeli": "Cómo entrenar a tu dragón",
+      "año": 2010,
+      "genero": "Comedia/Infantil",
+      "director": "Chris Sanders",
+      "duracion": "1h 37m",
+      "actoresPrincipales": "Jay Baruchel, Gerard Butler, America Ferrera"
+    },
+    {
+      "id": 11,
+      "nombrePeli": "Los Increíbles",
+      "año": 2004,
+      "genero": "Animación/Acción",
+      "director": "Brad Bird",
+      "duracion": "1h 55m",
+      "actoresPrincipales": "Craig T. Nelson, Holly Hunter, Samuel L. Jackson, Jason Lee"
+    }
+  ]
+}
